@@ -1,4 +1,4 @@
-Código inicial (¡NO LO MODIFIQUES DIRECTAMENTE!)
+
                 
 # Este código viola S.O.L.I.D. a propósito
 import datetime
